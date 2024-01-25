@@ -1,0 +1,36 @@
+.box{
+    width: 350px;
+height: 160px;
+flex-shrink: 0;
+border: 3px solid;
+color: #777;
+margin-top: 15px;
+margin-left: 3px;
+
+}
+p{
+    color: #777;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+.box2{
+    width: 1280px;
+height: 26px;
+flex-shrink: 0;
+border: solid;
+color: #777;
+
+}
+.p1{
+    color: #001AFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
